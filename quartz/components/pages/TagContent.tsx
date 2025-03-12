@@ -6,8 +6,6 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
-import { ComponentChildren } from "preact"
-import { concatenateResources } from "../../util/resources"
 
 interface TagContentOptions {
   sort?: SortFn
@@ -35,11 +33,10 @@ export default ((opts?: Partial<TagContentOptions>) => {
         (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
       )
 
-    const content = (
+    const content =
       (tree as Root).children.length === 0
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
-    ) as ComponentChildren
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = cssClasses.join(" ")
     if (tag === "/") {
@@ -125,6 +122,6 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
   }
 
-  TagContent.css = concatenateResources(style, PageList.css)
+  TagContent.css = style + PageList.css
   return TagContent
 }) satisfies QuartzComponentConstructor
