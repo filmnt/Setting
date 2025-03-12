@@ -12,11 +12,11 @@ export const sharedPageComponents: SharedLayout = {
         // from data-repo
         repo: 'filmnt/filmnt.github.io/Setting',
         // from data-repo-id
-        repoId: 'R_kgDOOHF8aw',
+        repoId: 'R_kgDOOHGT1A',
         // from data-category
         category: 'Comments',
         // from data-category-id
-        categoryId: 'DIC_kwDOOHF8a84Cn4Ce',
+        categoryId: 'DIC_kwDOOHGT1M4Cn4J-',
         lightTheme: "light_protanopia", // corresponds to light-theme.css in quartz/static/giscus/
         darkTheme: "dark_protanopia", // corresponds to dark-theme.css quartz/static/giscus/
       }
