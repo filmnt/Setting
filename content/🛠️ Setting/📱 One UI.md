@@ -286,7 +286,7 @@ $('#linkshare').prop('selectedIndex',0);};
     setup-termux-desktop --change autostart 
     ```
     - (Recommend) Fix Sound Error
-        - Open `File Explorer` → `/data/data/com.termux/` → Search `default.pa` and Modify `Last Line` as below
+        - Open `com.termux/files/usr/etc/pulsedefault.pa` and Modify `Last Line` as below
     ```shell
     load-module module-aaudio-sink
     ```
