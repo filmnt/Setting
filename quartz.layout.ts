@@ -27,7 +27,7 @@ export const sharedPageComponents: SharedLayout = {
       "Comments": "https://filmnt.github.io/share/7",
       "Twitch": "https://filmnt.github.io/share/6",
       "Discord": "https://filmnt.github.io/share/3",
-      GitHub: "https://filmnt.github.io/share/8",
+      GitHub: "https://filmnt.github.io/share/9",
       "Study": "https://filmnt.github.io/"
 
     },
