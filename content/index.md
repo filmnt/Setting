@@ -173,4 +173,3 @@ document.getElementById( 'switchLocation' ).onchange = function() {$('#switchLoc
 
 %% twitch chat embed %%
 <iframe id="twitch-chat-embed" src="https://www.twitch.tv/embed/filmnt__/chat?darkpopout&parent=localhost&parent=filmnt.github.io&parent=filmnt.pages.dev" width="100%" height="600" frameborder="0"> </iframe>
-
