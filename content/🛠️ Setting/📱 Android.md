@@ -82,7 +82,7 @@ $('#linkshare').prop('selectedIndex',0);};
             - Use carefully on `Phone` or `Payment`
 -  File Sync <a href="https://github.com/Catfriend1/syncthing-android/releases" target="_blank" >Syncthing (Fork)</a>
 -  Note-taking <a href="https://github.com/obsidianmd/obsidian-releases/releases" target="_blank" >Obsidian</a>
-    - See <button id=”Link” onclick="window.open('https://filmnt.github.io/%F0%9F%9B%A0%EF%B8%8F-Setting/%F0%9F%92%A0-Obsidian', '_blank')" >💠&nbsp;Obsidian</button>
+    - See <button id=”Link” onclick="window.open('https://filmnt.github.io/setting/%F0%9F%9B%A0%EF%B8%8F-Setting/%F0%9F%92%A0-Obsidian', '_blank')" >💠&nbsp;Obsidian</button>
 - Notion Alternatives <a href="https://github.com/anyproto/anytype-kotlin/releases" target="_blank" >Anytype</a>
 -  Password Manager <a href="https://github.com/bitwarden/android/releases" target="_blank" >Bitwarden</a>
 - White <a href="https://github.com/trynoice/android-app/releases" target="_blank" >Noice</a>
@@ -104,9 +104,6 @@ $('#linkshare').prop('selectedIndex',0);};
 - Odt Viewer <a href="https://play.google.com/store/apps/details?id=com.collabora.libreoffice" target="_blank" >Collabora Office</a>
 -  Microsoft <a href="https://play.google.com/store/apps/details?id=com.microsoft.translator" target="_blank" >Translator</a>
 -  iOS <a href="https://play.google.com/store/apps/details?id=com.inova.ios_14_iconpack" target="_blank" >Icon Pack</a>
-    - Apply with `ThemePark` (GoodLock)
--  For `Widgets pop-up` <a href="https://play.google.com/store/apps/details?id=com.stock.widget" target="_blank" >Stock Widget</a>
-    - See `One Hand Operation +`
 -  File <a href="https://play.google.com/store/apps/details?id=com.alphainventor.filemanager" target="_blank" >Manager</a>
 
 > Use `Secure Folder`(Samsung App) for Privacy.
