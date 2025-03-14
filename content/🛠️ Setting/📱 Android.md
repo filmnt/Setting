@@ -99,7 +99,6 @@ $('#linkshare').prop('selectedIndex',0);};
 - Get Updates from Website <a href="https://github.com/ImranR98/Obtainium/releases" target="_blank" >Obtainium</a>
 ## Play Store
 
--  Samsung <a href="https://play.google.com/store/apps/details?id=com.samsung.android.tvplus" target="_blank" >TV Plus</a>
 -  PDF Annotation <a href="https://play.google.com/store/apps/details?id=com.orion.notein.global" target="_blank" >Notein</a>
 -  PDF Viewer <a href="https://play.google.com/store/apps/details?id=com.xodo.pdf.reader" target="_blank" >Xodo</a>
 - Odt Viewer <a href="https://play.google.com/store/apps/details?id=com.collabora.libreoffice" target="_blank" >Collabora Office</a>
@@ -125,7 +124,7 @@ $('#linkshare').prop('selectedIndex',0);};
         - Default Ringtone: `Over the horizon`
         - Default Notification Sound: `Spaceline`
 - `Developer options`
-    - (Developer options) `Settings` → `About tablet` → `Software information` → Tap `Build number` several times→ Back to `Settings` 
+    - (Developer options) `Settings` → `About tablet` → `Software information` → Tap `Build number` several times→ Back to `Settings` 
     - `Window animation scale` → `.5x` 
     - `Transition animation scale` → `.5x`
     - `Animator duration scale` → `.5x`
@@ -144,84 +143,6 @@ $('#linkshare').prop('selectedIndex',0);};
 
 ---
 
-# Good Guardians
-- Install from `Store`
-## Galaxy App Booster
-- Boost up apps performance
-
----
-## Thermal Guardian
-![[TG-1.png]]
-![[TG-2.png]]
-
----
-
-# Good Lock 
-- Install from `Store`
-
-## NavStar
-![[NV-1.png]]
----
-
-## One Hand Operation +            
-- Enable `Auto Rotate` and Check `Touch width/Size` in `Portrait/Landscape mode`
-        ![[OHO-1.png]]
-        ![[OHO-2.png]]
-        ![[OHO-3.png]]
-        ![[OHO-4.png]]
-        ![[OHO-5.png]]
-        ![[OHO-6.png]]
-        ![[OHO-7.png]]
----
-## MultiStar
-- `Settings` → `Advanced features` → `Labs` and `Multi Window`
-![[MS-1.png]]
-![[MS-2.png]]
-
-![[MS-3.png]]
-![[MS-4.png]]
-![[MS-5.png]]
-![[MS-6.png]]
-
----
-## Pentastic
-- `Settings` → `Advanced features` → `S Pen`
-    - You can disable `Air command` with `Modes and Routines`
-![[PS-0.png]]
-![[PS-1.png]]
-![[PS-2.png]]
-![[PS-3.png]]
-![[PS-4.png]]
-
----
-## QuickStar
-![[QS-1.png]]
-![[QS-2.png]]
-![[QS-3.png]]
-![[QS-4.png]]
-
----
-
-## NotiStar
-- Use `NotiStar` on `Lock Screen`
-        
----
-
-## SoundAssistant
-![[SA-1.png]]
-![[SA-2.png]]
-![[SA-3.png]]
-
----
-
-## NiceShot
-![[NS-1.png]]
-![[NS-2.png]]
-
-
-
----
-
 # Termux (Linux on Android)
 ![[Linux.png]]
 - Could be needed later...
@@ -234,7 +155,7 @@ $('#linkshare').prop('selectedIndex',0);};
     - Install `LADB` from <a href="https://github.com/hyperio546/ladb-builds/releases" target="_blank" >Here</a> (`app-debug.apk`)  
         - There are many ADB tools…
     - Connect `Wifi` and Enable `Wireless debugging` in `Developer options` 
-        - (Developer options) `Settings` → `About tablet` → `Software information` → Tap `Build number` several times→ Back to `Settings` 
+        - (Developer options) `Settings` → `About tablet` → `Software information` → Tap `Build number` several times→ Back to `Settings` 
     - Get `port number`+`pairing code` and Enter both those values into `LADB`
         - Use multitasking options (`Split screen view` or `Pop-up view`)
         - <a href="https://youtu.be/6UO5tb_eKxY?feature=shared&t=194" target="_blank" >YouTube Guide</a>
