@@ -19,9 +19,7 @@ export default ((opts?: Options) => {
           <a target="_blank" href="https://code.visualstudio.com/download">VS Code</a>•  
           <a target="_blank" href="https://grok.com/">Grok</a>•  
           <a target="_blank" href="https://quartz.jzhao.xyz/">Quartz</a>
-           <span> for </span> <a target="_blank" href="https://www.mozilla.org/firefox/">Firefox</a> 
-           <span> on </span> 
-          <a target="_blank" href="https://www.samsung.com/global/galaxy/">Galaxy</a> © {year}
+           <span> for </span> <a target="_blank" href="https://www.mozilla.org/firefox/">Firefox</a>  © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

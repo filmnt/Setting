@@ -125,7 +125,7 @@ $('#linkshare').prop('selectedIndex',0);};
 <span>
 <button id=”Link” onclick="location.href='https://filmnt.github.io/setting/%F0%9F%9B%A0%EF%B8%8F-Setting/%F0%9F%92%A0-Obsidian'" >💠&nbsp;Obsidian</button>
 <span></span>
-<button id=”Link” onclick="location.href='https://filmnt.github.io/setting/%F0%9F%9B%A0%EF%B8%8F-Setting/%F0%9F%93%B1-One-UI'"  >📱&nbsp;One&nbsp;UI</button>
+<button id=”Link” onclick="location.href='https://filmnt.github.io/setting/%F0%9F%9B%A0%EF%B8%8F-Setting/%F0%9F%93%B1-Android'"  >📱&nbsp;Android</button>
 <span></span>
 <button id=”Link” onclick="location.href='https://filmnt.github.io/setting/%F0%9F%9B%A0%EF%B8%8F-Setting/%F0%9F%94%81-Useful-Apps'" >🔁&nbsp;Useful Apps</button>
 <span></span>

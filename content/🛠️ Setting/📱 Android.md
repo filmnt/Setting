@@ -63,7 +63,7 @@ $('#linkshare').prop('selectedIndex',0);};
 
 
 
-> <h3>This post is for the Galaxy Tab S series (One UI 6.1 ⬆️)</h3> 
+> <h3>This post is for Tablets (Android 14 ⬆️)</h3> 
 
 ![[OH.png]]
 
@@ -222,7 +222,7 @@ $('#linkshare').prop('selectedIndex',0);};
 
 ---
 
-# Termux (Linux on Galaxy)
+# Termux (Linux on Android)
 ![[Linux.png]]
 - Could be needed later...
     - <a href="https://mega.nz/file/2clmGSgC#WERW4d4P5eeMGa7RD9BVeKTHC5ap_9YEJNHJzI4zXDk" target="_blank" >Wallpapers</a> (9.2mb)
