@@ -95,10 +95,6 @@ const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) 
         <option value="https://arxiv.org/">arXiv</option>
         <option value="https://armrepo.ver.lt/">Windows ARM software</option>
         <option value="https://github.com/ocrmypdf/OCRmyPDF">OCRmyPDF</option>
-        <option value="https://filmnt.github.io/share/5">S-Pen Tip/Nip Replacement (For Korean)</option>
-        <option value="https://smartthingsfind.samsung.com/">SmartThings Find (Need Sign-In)</option>
-        <option value="https://samsungtvplus.com/">Samsung TV Plus (Need Sign-In)</option>
-        <option value="https://r1.community.samsung.com/">Samsung Members</option>
         </select>
         <div style="float:left;margin-bottom:-3px;">
         <div id="google_translate_element" style="float:left;margin-right:4px;"></div>
