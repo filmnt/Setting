@@ -95,6 +95,7 @@ const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) 
         <option value="https://arxiv.org/">arXiv</option>
         <option value="https://armrepo.ver.lt/">Windows ARM software</option>
         <option value="https://github.com/ocrmypdf/OCRmyPDF">OCRmyPDF</option>
+        <option value="https://imgur.com/">imgur</option>
         </select>
         <div style="float:left;margin-bottom:-3px;">
         <div id="google_translate_element" style="float:left;margin-right:4px;"></div>
